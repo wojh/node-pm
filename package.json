@@ -3,7 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Jane Doe",
+	"author": "jhow",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
